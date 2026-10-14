@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "pl.sakurasky.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EnvironmentAttributeProbeMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
